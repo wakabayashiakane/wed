@@ -270,9 +270,7 @@ h2 {
     margin-bottom: 30px;
 }
 
-.photo2 {
-    /* border: 1px solid #faa004; */
-}
+
 
 .photo2 p {
     font-weight: bold;
@@ -315,7 +313,6 @@ dd {
     display: flex;
     /* width: 521px;
     /* padding: 100px 30px; */
-    border: 1px solid red;
     font-size: 1.4rem;
     margin-bottom: 60px;
     height: 621px;
@@ -327,7 +324,6 @@ dd {
     /* margin-left: -30px; */
     /* margin-top: 130px; */
     position: relative;
-    border: 1px solid #000;
 }
 
 .photo3 img {
